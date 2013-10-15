@@ -4,6 +4,7 @@ bgmax-screen-combo
 Background combo image using Maximage Background Jquery plugin, a usefull plugin for a full width theme/website with a full size background in it
 
 How to use:
+
 1. Upload the folder bgmax-screen-combo to your "wp-content" plugin folder, then activate it through Plugin Installation page inside your wp-admin
 
 2. You will have a new custom post named "Background", open and add a new combo of your background image
